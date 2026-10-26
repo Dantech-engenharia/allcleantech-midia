@@ -1,0 +1,10 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-02-rolamentos-agua-lavagem",
+"slides":[
+{"kicker":"Causa raiz","titulo":"O rolamento travou. <em>A causa entrou com a água da lavagem.</em>","texto":"Por que a lavagem com água encurta a vida de rolamentos e mancais da linha."},
+{"kicker":"Causa raiz","titulo":"Vedação cansada, <em>água lá dentro</em>","texto":"Lábios de vedação endurecidos e microtrincas deixam a água da lavagem entrar no mancal, sem sinal visível até o rolamento já estar comprometido.","fonte":"Fontes: ReliaMag (Reliabilityweb), Control Engineering, Know Your Parts"},
+{"kicker":"Causa raiz","titulo":"A graxa vira <em>emulsão</em>","texto":"Misturada à água, a graxa fica leitosa e perde a capacidade de sustentar carga. O filme lubrificante falha e o desgaste acelera.","fonte":"Fontes: Machinery Lubrication, Know Your Parts, ReliaMag"},
+{"kicker":"Causa raiz","titulo":"Oxidação nas <em>pistas</em>","texto":"A água corrói pistas e elementos rolantes. As cavidades viram ponto de partida para lascamento e trincas de fadiga.","fonte":"Fontes: ReliaMag, Reliability Solutions, Know Your Parts"},
+{"kicker":"Causa raiz","titulo":"No fim, <em>parada não planejada</em>","texto":"A lavagem reduz a vida útil do rolamento. E rolamento que falha cedo vira linha parada, manutenção corretiva e perda de produção.","fonte":"Fontes: Control Engineering, Machinery Lubrication, Reliability Solutions"},
+{"kicker":"O que fazer","titulo":"Menos água <em>perto do que gira</em>","lista":[["vapor","Calor no lugar do jato","Vapor seco limpa com pouca água"],["seguro","Proteja mancais e motores","Evite jato direto nas vedações"],["tempo","Inspecione a graxa","Graxa leitosa é sinal de água"]]}
+],
+"cta":{"kicker":"Causa raiz","titulo":"Menos água na linha.<br><em>Mais vida para o que gira.</em>"}}

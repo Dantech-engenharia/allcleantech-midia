@@ -1,0 +1,9 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-05-aerossois-alta-pressao",
+"slides":[
+{"kicker":"Segurança de alimentos","titulo":"O jato que limpa <em>também espalha.</em>","texto":"Mangueira de alta pressão gera aerossóis. E aerossóis levam contaminação para onde você não quer."},
+{"kicker":"Segurança de alimentos","titulo":"Do ralo <em>para a linha</em>","texto":"Pesquisa da Kansas State University: ao lavar ralos com alta pressão, bactérias do ralo, incluindo Listeria monocytogenes, chegaram a superfícies acima do piso.","fonte":"Fontes: Kansas State Univ. (Food Safety Consortium) via FoodNavigator; FDA (2017); AFFI"},
+{"kicker":"Segurança de alimentos","titulo":"O que recomenda <em>o FDA</em>","texto":"Evitar mangueira de alta pressão para limpar ralos e não usá-la durante a produção: ela pode criar aerossóis que espalham contaminação pela sala.","fonte":"Fontes: FDA, guia de controle de L. monocytogenes (rascunho, 2017); AFFI; Kansas State Univ."},
+{"kicker":"Segurança de alimentos","titulo":"Umidade <em>favorece</em> a Listeria","texto":"Manter as salas o mais secas possível: a umidade favorece o crescimento e a transferência de L. monocytogenes, e água parada também.","fonte":"Fontes: FDA (2017), AFFI, Kansas State Univ."},
+{"kicker":"Boas práticas","titulo":"Higienização <em>sem aerossol</em>","lista":[["seguro","Sem alta pressão na produção","Nada de jato perto de produto exposto"],["agua","Ambiente seco","Menos água parada, menos abrigo"],["vapor","Calor no lugar do jato","Vapor seco higieniza com pouca umidade"]]}
+],
+"cta":{"kicker":"Segurança de alimentos","titulo":"Higienize com calor.<br><em>Não com aerossol.</em>"}}
