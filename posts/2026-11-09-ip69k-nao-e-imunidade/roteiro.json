@@ -1,0 +1,9 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-09-ip69k-nao-e-imunidade",
+"slides":[
+{"kicker":"Causa raiz","titulo":"IP69K <em>não é imunidade.</em>","texto":"O selo mostra que o equipamento passou num ensaio. Não garante que ele aguente toda lavagem, todo dia."},
+{"kicker":"Causa raiz","titulo":"O que o ensaio <em>testa</em>","lista":[["agua","Água a 80 °C","Jato de 80 a 100 bar"],["seguro","A 10–15 cm","Bico bem próximo do equipamento"],["tempo","4 ângulos × 30 s","0°, 30°, 60° e 90°: 2 minutos no total"]],"fonte":"Fontes: Mettler Toledo; Sealcon; APEM"},
+{"kicker":"Causa raiz","titulo":"IP67 e IP68 <em>são outra coisa</em>","texto":"Os dígitos 7 e 8 falam de imersão. Jato d'água é outro ensaio, e jato quente de alta pressão é o IP69K. Um grau não cobre o outro.","fonte":"Fontes: Sealcon; Fabrico; APEM"},
+{"kicker":"Causa raiz","titulo":"A água entra <em>pelo ponto mais fraco</em>","texto":"A proteção vale para o conjunto: motor, sensor, conector, vedação. Em áreas de lavagem, a entrada de líquido é causa frequente de falhas elétricas.","fonte":"Fontes: Wesco/ABB; CHINT; Parker"},
+{"kicker":"Na sua linha","titulo":"O que <em>observar</em>","lista":[["seguro","Confira o conjunto","Grau de proteção de cada componente"],["agua","Jato longe das vedações","Pressão alta não é sinônimo de limpeza"],["vapor","Menos água na limpeza","Vapor seco limpa com o mínimo de água"]]}
+],
+"cta":{"kicker":"Causa raiz","titulo":"Menos jato d'água.<br><em>Menos risco elétrico.</em>"}}

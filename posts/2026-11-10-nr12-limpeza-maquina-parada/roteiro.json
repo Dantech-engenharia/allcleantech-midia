@@ -1,0 +1,9 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-10-nr12-limpeza-maquina-parada",
+"slides":[
+{"kicker":"Automação","titulo":"Limpar a esteira <em>é intervenção.</em>","texto":"Para a NR-12, limpeza segue a mesma regra de manutenção, inspeção e ajuste."},
+{"kicker":"NR-12","titulo":"O que diz o <em>item 12.11.3</em>","texto":"Manutenção, inspeção, reparos, limpeza e ajuste devem ser feitos com a máquina parada, por pessoal capacitado e autorizado pelo empregador.","fonte":"Fontes: NR-12, texto em Guia Trabalhista, Normas Legais e LegisWeb"},
+{"kicker":"NR-12","titulo":"Parada <em>com bloqueio</em>","lista":[["seguro","Isolar as energias","Todas as fontes, com descarga"],["equipe","Bloquear e sinalizar","Cartão ou etiqueta de bloqueio"],["tempo","Travar partes móveis","Sem retorno acidental"]],"fonte":"Fontes: NR-12, item 12.11.3 (Guia Trabalhista, Normas Legais, LegisWeb)"},
+{"kicker":"Mão de obra","titulo":"A conta <em>da limpeza manual</em>","texto":"Cada limpeza manual é linha parada, energia bloqueada e gente capacitada fora da produção. Com a jornada encolhendo pelo fim da escala 6x1, essa hora pesa mais.","fonte":"Fim da 6x1: Forbes Brasil; meutudo; Trabalhista.blog; Portal de Prefeitura"},
+{"kicker":"Automação","titulo":"Tire a mão <em>da zona de risco</em>","texto":"Quando o próprio sistema faz a limpeza, a equipe não precisa entrar na esteira para limpar. A análise de risco da sua máquina continua valendo: quem define o procedimento é o seu responsável de segurança."}
+],
+"cta":{"kicker":"Automação","titulo":"Menos gente na zona de risco.<br><em>Mais gente produzindo.</em>"}}

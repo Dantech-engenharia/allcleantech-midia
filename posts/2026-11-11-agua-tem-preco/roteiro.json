@@ -1,0 +1,9 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-11-agua-tem-preco",
+"slides":[
+{"kicker":"Água e ETE","titulo":"Água tem preço. <em>Efluente também.</em>","texto":"A Lei das Águas (Lei 9.433/1997) trata a água como recurso limitado, dotado de valor econômico."},
+{"kicker":"Água e ETE","titulo":"Dois usos, <em>uma outorga</em>","texto":"Captar água de um rio e lançar efluente, tratado ou não, num corpo d'água são usos sujeitos a outorga. E são esses usos que podem ser cobrados.","fonte":"Fontes: Lei 9.433/1997 (Câmara dos Deputados); ANA; InfoEscola"},
+{"kicker":"Água e ETE","titulo":"O que <em>entra na conta</em>","lista":[["agua","Captação","Volume de água retirado"],["ete","Lançamento","Volume e características do efluente"]],"fonte":"Fontes: Lei 9.433/1997, art. 21; ANA; InfoEscola"},
+{"kicker":"Água e ETE","titulo":"Onde já <em>é cobrada</em>","texto":"Os valores são propostos pelo comitê de cada bacia e aprovados pelo conselho de recursos hídricos. Não é imposto: paga-se pelo uso de um bem público.","fonte":"Fontes: ANA; InfoEscola; Lei 9.433/1997"},
+{"kicker":"Na sua planta","titulo":"Menos água na limpeza, <em>menos nas duas pontas</em>","lista":[["agua","Menos captação","Menos volume retirado"],["ete","Menos efluente","Menos volume para tratar e lançar"],["vapor","Vapor seco","Limpeza com o mínimo de água"]]}
+],
+"cta":{"kicker":"Água e ETE","titulo":"Cada litro a menos<br><em>conta duas vezes.</em>"}}

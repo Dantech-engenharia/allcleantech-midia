@@ -1,0 +1,9 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-12-biofilme",
+"slides":[
+{"kicker":"Segurança de alimentos","titulo":"Biofilme: <em>a sujeira que se defende.</em>","texto":"Uma comunidade de micro-organismos presa à superfície e protegida por uma matriz que ela mesma produz."},
+{"kicker":"Segurança de alimentos","titulo":"Mais resistente <em>que células livres</em>","texto":"A matriz de substâncias poliméricas extracelulares (EPS) funciona como barreira: biofilmes resistem mais a sanitizantes e desinfetantes.","fonte":"Fontes: Food Safety Magazine; Manufacturing.net; Food Materials Research (2026)"},
+{"kicker":"Segurança de alimentos","titulo":"Onde ele <em>se esconde</em>","texto":"Pontos de difícil acesso, como ralos, tubulações e o lado de baixo das esteiras transportadoras.","fonte":"Fontes: Manufacturing.net; USDA NIFA (Texas A&M); Food Materials Research (2026)"},
+{"kicker":"Segurança de alimentos","titulo":"Umidade <em>alimenta</em>","texto":"Umidade e resíduos de produto criam a condição para os micro-organismos se fixarem e produzirem a matriz.","fonte":"Fontes: Food Safety Magazine; Manufacturing.net; Food Materials Research (2026)"},
+{"kicker":"Boas práticas","titulo":"Como <em>combater</em>","lista":[["seguro","Ação mecânica","Só sanitizante não basta"],["agua","Superfície seca","Menos água parada após a limpeza"],["tempo","Rotina constante","Antes que o biofilme se instale"]],"fonte":"Fontes: Food Safety Magazine; Manufacturing.net; Food Materials Research (2026)"}
+],
+"cta":{"kicker":"Segurança de alimentos","titulo":"Biofilme se previne<br><em>com rotina e superfície seca.</em>"}}
