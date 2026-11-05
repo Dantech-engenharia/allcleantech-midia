@@ -1,0 +1,16 @@
+O motor respira. E puxa umidade.
+
+Motor não é hermético. Em operação, a temperatura interna sobe, a pressão sobe e o ar sai pelas vedações. Quando a linha para e o motor esfria, a pressão interna cai e ele aspira o ar de fora, com a umidade que estiver ali. Esse vapor condensa nas superfícies internas mais frias. Ciclos repetidos de aquecimento e resfriamento favorecem a condensação.
+
+E umidade dentro do motor é causa raiz: ela oxida conexões, aumenta a resistência e gera calor, podendo levar a arco e incêndio.
+
+O que observar na sua linha:
+✅ Jato longe de motores, vedações e conectores
+✅ Furos de dreno desobstruídos e posicionados embaixo
+✅ Menos água na limpeza: o vapor seco leva calor com o mínimo de água
+
+Quer mapear onde a umidade está entrando nos seus equipamentos? Chama a gente no direct.
+
+📚 Fontes: Machine Design, Kollmorgen e MRO Magazine (respiração e condensação em motores); Technical Safety BC, Schneider Electric, O Setor Elétrico e NAFE (umidade e falhas elétricas).
+
+#AllCleantech #LimpezaAVapor #IndústriaDeAlimentos #Automação #ManutençãoIndustrial #Sustentabilidade #CausaRaiz #MotorElétrico #Condensação #FalhaElétrica
