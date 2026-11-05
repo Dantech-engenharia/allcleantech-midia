@@ -1,0 +1,9 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-20-perguntas-limpeza-esteira",
+"slides":[
+{"kicker":"Produto em ação","titulo":"5 perguntas <em>antes de escolher</em> a limpeza da sua esteira.","texto":"Um roteiro rápido para manutenção, produção e qualidade avaliarem juntas."},
+{"kicker":"Pergunta 1 e 2","titulo":"Água e <em>parada de linha</em>","lista":[["agua","Quanta água sobra?","Na esteira, no motor e no piso depois da limpeza"],["tempo","Precisa parar e bloquear?","Pela NR-12, limpeza manual é com máquina parada e bloqueada"]],"fonte":"NR-12, item 12.11.3 (Guia Trabalhista; Normas Legais; LegisWeb)"},
+{"kicker":"Pergunta 3 e 4","titulo":"Equipe e <em>repetibilidade</em>","lista":[["equipe","Quem faz e quanto tempo leva?","Horas de equipe que saem da produção"],["seguro","Sai igual todo turno?","Ou depende de quem está com a mangueira"]]},
+{"kicker":"Pergunta 5","titulo":"Para onde <em>vai tudo isso?</em>","lista":[["ete","Efluente","Volume e carga que chegam à ETE"]],"texto":"Água usada na limpeza vira efluente para tratar e lançar."},
+{"kicker":"AllCleantech","titulo":"Nossa resposta: <em>vapor, no automático.</em>","texto":"Limpeza automática de esteiras modulares com vapor em alta temperatura, sem depender de mangueira e balde, com o mínimo de água."}
+],
+"cta":{"kicker":"Produto em ação","titulo":"Traga as 5 perguntas.<br><em>A gente responde na sua linha.</em>"}}

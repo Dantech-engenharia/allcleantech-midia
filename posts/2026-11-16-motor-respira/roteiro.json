@@ -1,0 +1,10 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-16-motor-respira",
+"slides":[
+{"kicker":"Causa raiz","titulo":"O motor <em>respira.</em> E puxa umidade.","texto":"Vedação não é parede: motor não é hermético. A troca de ar acontece a cada ciclo de aquecimento e resfriamento."},
+{"kicker":"Causa raiz","titulo":"Esquenta, <em>expulsa ar</em>","texto":"Em operação, a temperatura interna sobe, a pressão sobe e o ar é empurrado para fora pelas vedações.","fonte":"Fontes: Machine Design; Kollmorgen; MRO Magazine"},
+{"kicker":"Causa raiz","titulo":"Esfria, <em>puxa para dentro</em>","texto":"Quando o motor para e esfria, a pressão interna cai. Para equilibrar, ele aspira o ar de fora, com a umidade que estiver ali.","fonte":"Fontes: Machine Design; Kollmorgen; MRO Magazine"},
+{"kicker":"Causa raiz","titulo":"A água <em>condensa lá dentro</em>","texto":"O vapor que entra condensa nas superfícies internas mais frias. Ciclos repetidos de aquecimento e resfriamento favorecem a condensação.","fonte":"Fontes: Machine Design; Kollmorgen; MRO Magazine"},
+{"kicker":"Causa raiz","titulo":"Umidade <em>vira falha elétrica</em>","texto":"A umidade oxida conexões, aumenta a resistência e gera calor, podendo levar a arco e incêndio.","fonte":"Fontes: Technical Safety BC; Schneider Electric; O Setor Elétrico; NAFE"},
+{"kicker":"O que fazer","titulo":"Menos umidade <em>em volta do motor</em>","lista":[["agua","Sem jato no motor","Nem em vedações e conectores"],["tempo","Drenos livres","Furos de dreno desobstruídos e embaixo"],["vapor","Menos água na limpeza","Vapor seco: calor com o mínimo de água"]],"fonte":"Fontes: Machine Design; MRO Magazine; Kollmorgen"}
+],
+"cta":{"kicker":"Causa raiz","titulo":"A falha começa<br><em>na umidade.</em>"}}

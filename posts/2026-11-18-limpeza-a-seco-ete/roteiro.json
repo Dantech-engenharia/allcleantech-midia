@@ -1,0 +1,9 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-18-limpeza-a-seco-ete",
+"slides":[
+{"kicker":"Água e ETE","titulo":"Tudo o que vai <em>para o ralo</em> vira trabalho na ETE.","texto":"Resíduo de produto empurrado com mangueira não some: vira carga orgânica no efluente."},
+{"kicker":"Água e ETE","titulo":"Resíduo <em>vira DBO</em>","texto":"Matéria orgânica da higienização eleva a demanda bioquímica de oxigênio (DBO) do efluente. Quanto mais resíduo no ralo, mais carga para tratar.","fonte":"Fontes: Food Business News; NY Dept. of Agriculture (AEM); California Water Boards"},
+{"kicker":"Água e ETE","titulo":"Primeiro <em>a seco</em>","texto":"A boa prática é retirar o resíduo antes da água: raspar, varrer e recolher, em vez de empurrar tudo com a mangueira.","fonte":"Fontes: California Water Boards; NY Dept. of Agriculture (AEM); P2 InfoHouse"},
+{"kicker":"Água e ETE","titulo":"Ganho <em>nas duas pontas</em>","lista":[["ete","Menos carga na ETE","Menos sólidos e matéria orgânica no ralo"],["agua","Menos água","Menos volume gasto na limpeza"]],"fonte":"Fontes: Food Business News; California Water Boards; P2 InfoHouse"},
+{"kicker":"Água e ETE","titulo":"Depois do seco, <em>o mínimo de água</em>","texto":"Na limpeza de esteiras, o vapor seco leva calor à superfície com pouca água líquida. Menos volume para captar, tratar e lançar."}
+],
+"cta":{"kicker":"Água e ETE","titulo":"Menos água na limpeza.<br><em>Menos carga na ETE.</em>"}}

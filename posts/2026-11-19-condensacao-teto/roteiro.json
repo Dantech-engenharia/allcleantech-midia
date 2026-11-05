@@ -1,0 +1,9 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-19-condensacao-teto",
+"slides":[
+{"kicker":"Segurança de alimentos","titulo":"A gota que <em>pinga do teto</em> também é contaminação.","texto":"Condensação em tetos, tubulações e estruturas elevadas é ponto de atenção em qualquer auditoria de BPF."},
+{"kicker":"BPF · Brasil","titulo":"O que diz a <em>Portaria 326/97</em>","texto":"O teto deve reduzir ao mínimo a condensação e a formação de mofo. Estruturas elevadas não podem contaminar o alimento por gotejamento ou condensação.","fonte":"Fonte: Portaria SVS/MS 326/1997, itens 5.3.7 e 5.3.8"},
+{"kicker":"BPF · Brasil","titulo":"Na lista de <em>verificação</em>","texto":"A RDC 275/2002 cobra teto livre de umidade e bolor, e ventilação que mantenha o ambiente livre de condensação de vapores.","fonte":"Fonte: RDC Anvisa 275/2002, itens 1.5.2 e 1.14.1"},
+{"kicker":"Referência internacional","titulo":"A mesma regra <em>lá fora</em>","texto":"O Codex Alimentarius pede tetos que minimizem sujeira e condensação. A FDA exige que gotejamento e condensado não contaminem alimento, superfícies e embalagens.","fonte":"Fontes: Codex CAC/RCP 1-1969; FDA 21 CFR 117.20(b)(4)"},
+{"kicker":"Boas práticas","titulo":"Como <em>controlar</em>","lista":[["vapor","Ventilação adequada","Retirar vapor do ambiente"],["agua","Menos água no ambiente","Água e vapor soltos na sala precisam ir para algum lugar"],["seguro","Inspeção do alto","Teto, tubulações e estruturas na rotina"]],"fonte":"Fontes: Portaria SVS/MS 326/1997; RDC 275/2002; Codex CAC/RCP 1-1969"}
+],
+"cta":{"kicker":"Segurança de alimentos","titulo":"Higiene também<br><em>se olha de baixo para cima.</em>"}}
