@@ -1,0 +1,10 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-25-agua-no-relatorio-gri303",
+"slides":[
+{"kicker":"Água e ETE","titulo":"Sua água <em>vira indicador.</em>","texto":"Em relatórios de sustentabilidade, água não é só conta: é número reportado, ano a ano."},
+{"kicker":"Relato ESG","titulo":"GRI 303: <em>Água e Efluentes</em>","texto":"É a norma da GRI (Global Reporting Initiative) usada por empresas para relatar como captam, usam e devolvem água.","fonte":"Fontes: GRI; Sodexo (índice GRI); Eletrobras (Gestão de Água e Efluentes)"},
+{"kicker":"Relato ESG","titulo":"Três números <em>na mesa</em>","lista":[["agua","303-3 Captação","Quanta água a empresa retira"],["ete","303-4 Descarte","Quanto volta como efluente"],["vapor","303-5 Consumo","O que não volta ao meio"]],"fonte":"Fontes: GRI; Sodexo (índice GRI); Eletrobras"},
+{"kicker":"Relato ESG","titulo":"Consumo é <em>o que não volta</em>","texto":"Na GRI 303, consumo é a água captada que não retorna: incorporada ao produto, evaporada ou que deixou de ser utilizável por outros.","fonte":"Fontes: GRI; Sustainability-reports.com; Eletrobras"},
+{"kicker":"Na fábrica","titulo":"A higienização <em>está nos três</em>","texto":"A água da lavagem entra na conta da captação, do descarte e da ETE. Medir a limpeza por etapa mostra onde reduzir."},
+{"kicker":"Água e ETE","titulo":"Menos água <em>na limpeza</em>","lista":[["agua","Menos captação","Menos litros por limpeza"],["ete","Menos descarte","Menos efluente para tratar"],["vapor","Mínimo de água","Vapor seco na esteira"]]}
+],
+"cta":{"kicker":"Água e ETE","titulo":"Menos água na limpeza,<br><em>melhor no relatório.</em>"}}

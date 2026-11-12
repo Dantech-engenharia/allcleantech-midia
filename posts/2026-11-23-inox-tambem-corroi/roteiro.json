@@ -1,0 +1,10 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-23-inox-tambem-corroi",
+"slides":[
+{"kicker":"Causa raiz","titulo":"Inox também <em>corrói.</em>","texto":"A proteção do aço inox é uma película finíssima. E a água parada da lavagem sabe onde atacar."},
+{"kicker":"Causa raiz","titulo":"A proteção é <em>uma película</em>","texto":"O inox resiste à corrosão graças a uma camada passiva fina de óxido de cromo, que se forma sozinha na superfície.","fonte":"Fontes: Outokumpu; Inspenet; Infinita Lab"},
+{"kicker":"Causa raiz","titulo":"Cloreto abre <em>o primeiro furo</em>","texto":"Cloretos, presentes no sal, na salmoura e na própria água, rompem a película nos pontos fracos e iniciam a corrosão por pite.","fonte":"Fontes: Outokumpu; Food Engineering; Hydrite; Inspenet"},
+{"kicker":"Causa raiz","titulo":"Água parada <em>na fresta</em>","texto":"Em frestas, juntas e sob depósitos, a água fica parada, falta oxigênio e o cloreto se concentra. É a corrosão em frestas.","fonte":"Fontes: Outokumpu; Infinita Lab; Food Engineering"},
+{"kicker":"Causa raiz","titulo":"Calor <em>acelera</em>","texto":"Temperatura elevada aumenta o risco de pite e de corrosão em frestas no inox.","fonte":"Fontes: Outokumpu; Infinita Lab; Hydrite"},
+{"kicker":"O que observar","titulo":"Menos água <em>esquecida na estrutura</em>","lista":[["agua","Água parada","Frestas, juntas e cantos secos após a limpeza"],["seguro","Resíduo de sal","Enxágue antes que o cloreto se acumule"],["vapor","Mínimo de água","Vapor seco: calor com pouca água líquida"]]}
+],
+"cta":{"kicker":"Causa raiz","titulo":"Corrosão começa<br><em>onde a água fica.</em>"}}

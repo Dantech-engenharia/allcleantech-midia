@@ -1,0 +1,9 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-27-calor-latente-vapor",
+"slides":[
+{"kicker":"Produto em ação","titulo":"O calor que <em>a água esconde.</em>","texto":"Por que a AllCleantech limpa esteiras com vapor, e não com mais água quente."},
+{"kicker":"Física do vapor","titulo":"Esquentar <em>não é ferver</em>","texto":"Aquecer 1 kg de água de 0 °C a 100 °C exige cerca de 419 kJ. Transformar esse mesmo kg em vapor a 100 °C exige cerca de 2.257 kJ.","fonte":"Fontes: OpenStax College Physics; Engineering ToolBox; Nuclear Power (tabelas de vapor)"},
+{"kicker":"Física do vapor","titulo":"Mais de <em>5 vezes</em> a energia","texto":"O calor latente de vaporização é mais de cinco vezes o calor para levar a água de 0 °C a 100 °C.","fonte":"Fontes: tec-science; OpenStax College Physics; Engineering ToolBox"},
+{"kicker":"Física do vapor","titulo":"E ele volta <em>na superfície</em>","texto":"Quando o vapor condensa, devolve esse calor latente. É energia entregue onde está a sujeira.","fonte":"Fontes: Engineering ToolBox; tec-science; Science Learning Hub"},
+{"kicker":"Na esteira","titulo":"Calor <em>no lugar de volume</em>","lista":[["vapor","Vapor em alta temperatura","Energia concentrada na superfície"],["agua","Mínimo de água","Pouca água líquida no processo"],["tempo","No automático","Sem mangueira e balde"]]}
+],
+"cta":{"kicker":"Produto em ação","titulo":"Veja na sua linha.<br><em>Peça uma demonstração.</em>"}}

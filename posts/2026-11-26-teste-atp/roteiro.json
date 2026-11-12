@@ -1,0 +1,9 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-26-teste-atp",
+"slides":[
+{"kicker":"Segurança de alimentos","titulo":"Limpou? <em>Prove.</em>","texto":"Superfície com cara de limpa não é verificação. O teste de ATP mede o que o olho não vê."},
+{"kicker":"Verificação","titulo":"O que é <em>ATP</em>","texto":"ATP é a molécula de energia presente em toda célula viva: micro-organismos e também resíduos de alimento.","fonte":"Fontes: Neogen; Food Quality & Safety; Hygiena"},
+{"kicker":"Verificação","titulo":"Resultado <em>em segundos</em>","texto":"Um swab na superfície e o luminômetro mede a luz em RLU (unidades relativas de luz). Quanto maior o RLU, mais resíduo orgânico.","fonte":"Fontes: Neogen; Food Quality & Safety; Hygiena"},
+{"kicker":"Atenção","titulo":"ATP <em>não identifica</em> bactéria","texto":"O teste indica matéria orgânica em geral. Não diz qual micro-organismo está ali e não substitui a análise microbiológica.","fonte":"Fontes: Neogen; Food Quality & Safety; Hygiena"},
+{"kicker":"Boas práticas","titulo":"Como usar <em>na rotina</em>","lista":[["seguro","Após a limpeza","Antes de liberar a linha"],["tempo","Mesmos pontos","Compare turno a turno"],["equipe","Reprovou, refaz","E investiga a causa"]]}
+],
+"cta":{"kicker":"Segurança de alimentos","titulo":"Limpeza que se repete<br><em>é limpeza que se comprova.</em>"}}
