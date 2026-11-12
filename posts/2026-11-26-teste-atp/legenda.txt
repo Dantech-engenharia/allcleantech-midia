@@ -1,6 +1,6 @@
 Limpou? Prove.
 
-Superfície com cara de limpa não é verificação. O teste de ATP é uma das ferramentas mais usadas para conferir a higienização antes de liberar a linha:
+Superfície com cara de limpa não é verificação. O teste de ATP é uma forma rápida de conferir a higienização antes de liberar a linha:
 
 🔬 ATP é a molécula de energia presente em toda célula viva: micro-organismos e também resíduos de alimento.
 ⏱️ Um swab na superfície e o luminômetro dá o resultado em segundos, em RLU (unidades relativas de luz). Quanto maior o RLU, mais resíduo orgânico.

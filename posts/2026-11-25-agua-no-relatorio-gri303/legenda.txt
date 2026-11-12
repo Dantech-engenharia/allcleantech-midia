@@ -1,6 +1,6 @@
 Sua água vira indicador.
 
-Em relatórios de sustentabilidade, água não é só conta: é número reportado. A norma mais usada para isso é a GRI 303: Água e Efluentes, da Global Reporting Initiative. Ela traz três indicadores de desempenho:
+Em relatórios de sustentabilidade, água não é só conta: é número reportado. Uma referência para isso é a GRI 303: Água e Efluentes, da Global Reporting Initiative. Ela traz três indicadores de desempenho:
 
 💧 303-3 Captação: quanta água a empresa retira
 🏭 303-4 Descarte: quanto volta como efluente
