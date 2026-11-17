@@ -1,0 +1,13 @@
+{
+  "tipo": "reel",
+  "pasta": "posts/2026-11-17-antes-depois-swab",
+  "cenas": [
+    {"arquivo": "entrada/tmp/antes.mp4", "inicio": 0, "duracao": 3.9,
+     "kicker": "Antes", "titulo": "Peça com <em>resíduo incrustado</em>"},
+    {"arquivo": "entrada/tmp/depois.mp4", "inicio": 0.2, "duracao": 4.0,
+     "kicker": "Depois", "titulo": "Depois da <em>limpeza a vapor</em>"},
+    {"arquivo": "entrada/tmp/depois.mp4", "inicio": 4.2, "duracao": 5.0,
+     "kicker": "Teste de swab", "titulo": "Swab na <em>superfície limpa</em>"}
+  ],
+  "cta": {"kicker": "Antes e depois", "titulo": "Resultado <em>que se vê.</em>"}
+}
