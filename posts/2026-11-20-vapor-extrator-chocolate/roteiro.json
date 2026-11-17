@@ -1,0 +1,6 @@
+{"tipo":"reel","pasta":"posts/2026-11-20-vapor-extrator-chocolate","cenas":[
+ {"arquivo":"entrada/tmp/chocolate.mov","inicio":0.5,"duracao":3.5,"kicker":"Chocolate","titulo":"Resíduo de <em>chocolate</em> na superfície"},
+ {"arquivo":"entrada/tmp/extrator.jpg","duracao":2.8,"kicker":"Vapor + extrator","titulo":"O vapor solta, <em>o extrator recolhe</em>"},
+ {"arquivo":"entrada/tmp/chocolate.mov","inicio":12.0,"duracao":4.0,"kicker":"Na hora","titulo":"O chocolate <em>não se espalha</em>"},
+ {"arquivo":"entrada/tmp/chocolate.mov","inicio":18.5,"duracao":3.5,"kicker":"Resultado","titulo":"Superfície <em>limpa</em>"}],
+ "cta":{"kicker":"Vapor + extrator","titulo":"Limpa sem<br><em>espalhar a sujeira.</em>"}}

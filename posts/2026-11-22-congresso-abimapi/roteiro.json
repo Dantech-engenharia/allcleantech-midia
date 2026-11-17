@@ -1,0 +1,5 @@
+{"tipo":"reel","pasta":"posts/2026-11-22-congresso-abimapi","cenas":[
+ {"arquivo":"entrada/tmp/feira.mov","inicio":0.3,"duracao":3.5,"desfoque":true,"kicker":"Abimapi","titulo":"Estivemos no <em>Congresso Abimapi</em>"},
+ {"arquivo":"entrada/tmp/estande.mp4","inicio":0,"duracao":3.5,"kicker":"Nosso estande","titulo":"Tecnologia a vapor <em>para a indústria</em>"},
+ {"arquivo":"entrada/tmp/feira.mov","inicio":30.0,"duracao":3.5,"desfoque":true,"kicker":"Foz do Iguaçu (PR)","titulo":"Obrigado a quem <em>passou por lá!</em>"}],
+ "cta":{"kicker":"Abimapi","titulo":"Vamos conversar<br><em>sobre a sua linha?</em>"}}
