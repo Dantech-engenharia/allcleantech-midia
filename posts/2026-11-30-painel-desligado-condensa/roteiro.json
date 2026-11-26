@@ -1,0 +1,10 @@
+{"tipo":"carrossel","pasta":"posts/2026-11-30-painel-desligado-condensa",
+"slides":[
+{"kicker":"Causa raiz","titulo":"Linha parada, <em>painel suando.</em>","texto":"Por que inversores e placas eletrônicas sofrem justamente quando a máquina está desligada."},
+{"kicker":"Causa raiz","titulo":"Em operação, <em>o calor protege</em>","texto":"Ligado, o próprio equipamento aquece o ar dentro do painel. Desligado, esse calor some: o ar esfria e a umidade relativa sobe.","fonte":"Fontes: RS DesignSpark (Stego); Pfannenberg; Plant Services"},
+{"kicker":"Causa raiz","titulo":"Abaixo do ponto de orvalho, <em>vira água</em>","texto":"Quando a temperatura cai abaixo do ponto de orvalho, a umidade condensa sobre os componentes, dentro do painel fechado.","fonte":"Fontes: RS DesignSpark (Stego); Pfannenberg; Rittal"},
+{"kicker":"Causa raiz","titulo":"Placa úmida <em>corrói e vaza corrente</em>","texto":"Condensação mais poeira e contaminantes corroem a placa, criam correntes de fuga e podem chegar ao curto-circuito.","fonte":"Fontes: RS DesignSpark (Stego); IEEE Spectrum; Rittal"},
+{"kicker":"Causa raiz","titulo":"A lavagem <em>soma umidade</em>","texto":"Em áreas de lavagem, a entrada de líquido é causa frequente de falhas elétricas. Lavar com água e desligar a linha em seguida junta as duas coisas.","fonte":"Fontes: Wesco/ABB; CHINT; Parker"},
+{"kicker":"Boas práticas","titulo":"O que <em>conferir</em>","lista":[["seguro","Aquecedor no painel","Com termostato ou higrostato"],["vapor","Menos água em volta","Na limpeza da linha"],["tempo","Atenção às paradas","Fim de semana e entressafra"]],"fonte":"Fontes: RS DesignSpark (Stego); Rittal; Pfannenberg; Plant Services"}
+],
+"cta":{"kicker":"Causa raiz","titulo":"Menos água na limpeza,<br><em>menos umidade no painel.</em>"}}

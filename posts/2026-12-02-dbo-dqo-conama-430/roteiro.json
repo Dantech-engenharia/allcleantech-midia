@@ -1,0 +1,10 @@
+{"tipo":"carrossel","pasta":"posts/2026-12-02-dbo-dqo-conama-430",
+"slides":[
+{"kicker":"Água e ETE","titulo":"DBO e DQO: <em>a régua da sua ETE.</em>","texto":"Dois indicadores que aparecem em todo laudo de efluente. O que cada um mede e o que a norma cobra."},
+{"kicker":"Água e ETE","titulo":"DBO: <em>oxigênio dos micro-organismos</em>","texto":"Demanda bioquímica de oxigênio: quanto oxigênio os micro-organismos consomem para degradar a matéria orgânica. O ensaio padrão é de 5 dias a 20 °C.","fonte":"Fontes: Resolução CONAMA 430/2011; Pereira (UFU, 2023); Ambrósio et al. (Embrapa/ABES)"},
+{"kicker":"Água e ETE","titulo":"DQO: <em>oxidação química</em>","texto":"Demanda química de oxigênio: o oxigênio necessário para oxidar a matéria orgânica com um agente químico, sem depender dos micro-organismos.","fonte":"Fontes: Pereira (UFU, 2023); Ambrósio et al. (Embrapa/ABES); Embrapa (2024)"},
+{"kicker":"Água e ETE","titulo":"Por que <em>importa</em>","texto":"Efluente da indústria de alimentos tem alta carga orgânica. Lançada no rio, ela consome o oxigênio dissolvido e favorece a eutrofização.","fonte":"Fontes: Embrapa (2024); Pereira (UFU, 2023); Silva et al. (Eng. Sanit. Ambient., 2018)"},
+{"kicker":"CONAMA 430/2011","titulo":"Remoção mínima <em>de 60% da DBO</em>","texto":"Para lançar efluente, a regra geral é remover pelo menos 60% da DBO. Só pode ser menos com estudo de autodepuração do corpo receptor.","fonte":"Fontes: Resolução CONAMA 430/2011, art. 16; Pereira (UFU, 2023); Silva et al. (2018)"},
+{"kicker":"Na sua planta","titulo":"A carga começa <em>na limpeza</em>","texto":"A água de lavagem arrasta resíduo de produto e detergente para a ETE. Menos água na higienização, menos volume para tratar.","fonte":"Fontes: Comissão Europeia (JRC); Lazari (UTFPR, 2023); MarketScale"}
+],
+"cta":{"kicker":"Água e ETE","titulo":"Limpeza a vapor<br><em>com o mínimo de água.</em>"}}

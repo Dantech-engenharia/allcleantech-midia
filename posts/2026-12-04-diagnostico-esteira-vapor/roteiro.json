@@ -1,0 +1,40 @@
+{
+ "tipo": "carrossel",
+ "pasta": "posts/2026-12-04-diagnostico-esteira-vapor",
+ "slides": [
+  {
+   "kicker": "Produto em ação",
+   "titulo": "Antes do vapor, <em>o diagnóstico.</em>",
+   "texto": "Cinco perguntas para dimensionar a limpeza a vapor da sua esteira."
+  },
+  {
+   "kicker": "Diagnóstico",
+   "titulo": "1. Que sujeira <em>é essa?</em>",
+   "texto": "Gordura, açúcar, farinha, proteína, migalha. O tipo de resíduo orienta como a limpeza é regulada."
+  },
+  {
+   "kicker": "Diagnóstico",
+   "titulo": "2. Que esteira <em>é essa?</em>",
+   "texto": "Material da manta, largura, velocidade e acesso. É o que define como o vapor chega à superfície."
+  },
+  {
+   "kicker": "Diagnóstico",
+   "titulo": "3. Como é <em>a limpeza hoje?</em>",
+   "texto": "Com que frequência, quanto tempo de linha parada e quantas pessoas envolvidas em cada turno."
+  },
+  {
+   "kicker": "Diagnóstico",
+   "titulo": "4. Para onde vai <em>a água?</em>",
+   "texto": "Piso, ralo, ETE. E o que fica para trás: umidade em motores, mancais e painéis."
+  },
+  {
+   "kicker": "Diagnóstico",
+   "titulo": "5. O que a auditoria <em>cobra?</em>",
+   "texto": "Pontos críticos, registros e verificação. A limpeza precisa ser repetível e comprovável."
+  }
+ ],
+ "cta": {
+  "kicker": "Produto em ação",
+  "titulo": "Agende o diagnóstico<br><em>da sua linha.</em>"
+ }
+}

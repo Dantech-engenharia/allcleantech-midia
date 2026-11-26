@@ -1,0 +1,19 @@
+Linha parada, painel suando.
+
+Inversores e placas eletrônicas sofrem justamente quando a máquina está desligada:
+
+🔌 Em operação, o próprio equipamento aquece o ar dentro do painel. Desligado, esse calor some: o ar esfria e a umidade relativa sobe.
+💧 Abaixo do ponto de orvalho, a umidade condensa sobre os componentes, mesmo com o painel fechado.
+⚡ Condensação somada a poeira e contaminantes corrói a placa, cria correntes de fuga e pode chegar ao curto-circuito.
+🚿 Em áreas de lavagem, a entrada de líquido é causa frequente de falhas elétricas. Lavar com água e desligar a linha em seguida junta as duas coisas.
+
+O que conferir:
+✅ Aquecedor no painel, com termostato ou higrostato
+✅ Menos água em volta na limpeza da linha
+✅ Atenção redobrada nas paradas longas: fim de semana e entressafra
+
+Quer tirar a água da limpeza das suas esteiras? Chama a gente no direct ou no link da bio.
+
+📚 Fontes: RS DesignSpark (Stego), Pfannenberg, Rittal, IEEE Spectrum e Plant Services. Lavagem e falhas elétricas: Wesco/ABB, CHINT e Parker.
+
+#AllCleantech #LimpezaAVapor #IndústriaDeAlimentos #Automação #ManutençãoIndustrial #Sustentabilidade #Inversor #PainelElétrico #Condensação #ManutençãoPreditiva
